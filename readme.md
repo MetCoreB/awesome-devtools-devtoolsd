@@ -1,4 +1,4 @@
-# Awesome DevTools
+# Awesome ScraperTools
 
 > A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 
